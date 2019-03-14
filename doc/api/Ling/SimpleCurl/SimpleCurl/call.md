@@ -24,6 +24,14 @@ public [SimpleCurl::call](https://github.com/lingtalfi/SimpleCurl/blob/master/do
 Calls an url and returns the corresponding response.
 Returns false in case of an error, in which case errors are available via the getErrors method.
 
+This method was designed to call a simple url.
+For instance, if you want to ping a google server to ask them to crawl your website,
+you want to call this url:
+
+http://www.google.com/ping?sitemap=https://example.com/sitemap.xml
+
+See more info here: https://support.google.com/webmasters/answer/183668?hl=en&ref_topic=4581190
+
 
 
 

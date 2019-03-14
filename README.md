@@ -57,6 +57,10 @@ if (false !== $response = $curl->call($url)) {
 History Log
 =============
 
+- 1.0.1 -- 2019-03-14
+
+    - updating doc
+
 - 1.0.0 -- 2019-03-14
 
     - initial commit
