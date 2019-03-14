@@ -57,6 +57,10 @@ if (false !== $response = $curl->call($url)) {
 History Log
 =============
 
+- 1.0.2 -- 2019-03-14
+
+    - fix doc missing inserts
+
 - 1.0.1 -- 2019-03-14
 
     - updating doc
