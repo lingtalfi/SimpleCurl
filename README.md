@@ -26,7 +26,7 @@ Or just download it and place it where you want otherwise.
 
 Summary
 ===========
-- [SimpleCurl api](https://github.com/lingtalfi/SimpleCurl/blob/master/doc/api/SimpleCurl.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
+- [SimpleCurl api](https://github.com/lingtalfi/SimpleCurl/blob/master/doc/api/Ling/SimpleCurl.md) (generated with [DocTools](https://github.com/lingtalfi/DocTools))
 - [How to use?](#how-to-use)
 
 
